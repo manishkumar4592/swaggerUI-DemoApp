@@ -1,1 +1,1 @@
-# swaggerUI-DemoApp
+# Swagger UI Demo App
